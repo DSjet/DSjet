@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DSjet
-- 👀 I’m interested in App Development
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on App Development
+- 👀 I’m interested in Data Science and Game Development
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on Data Science and Game Development
 - 📫 How to reach me: email: teddyantonius7@gmail.com
 
 <!---
