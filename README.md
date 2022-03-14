@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DSjet
 - 👀 I’m interested in Game Development
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Unity
 - 💞️ I’m looking to collaborate on Game and Software Development
 - 📫 How to reach me: email: teddyantonius7@gmail.com
 
