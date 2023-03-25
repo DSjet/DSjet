@@ -5,6 +5,7 @@
 - 📫 How to reach me: email: teddyantonius7@gmail.com
 
 ![DSjet's github stats](https://github-readme-stats.vercel.app/api?username=DSjet&hide=issues)
+
 ![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=DSjet&layout=compact)
 
 <!---
