@@ -17,4 +17,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dsjet&show_icons=true&locale=en&layout=compact&theme=radical" alt="dsjet" /></p>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![DSjet's GitHub stats](https://github-readme-stats.vercel.app/api?username=DSjet&show_icons=true&theme=radical)
