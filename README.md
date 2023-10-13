@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Geospatial MIPA](https://github.com/lab-rpld-ugm/geospatial-mipa.git)
 
-- 🌱 I’m currently learning **Google ARCore, Swift, NextJS**
+- 🌱 I’m currently learning **Unity VR and AR**
 
 - 📫 How to reach me **teddyantonius7@gmail.com**
 
