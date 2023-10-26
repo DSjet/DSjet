@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm DSjet</h1>
 <h3 align="center">A Game Developer on Paper, Software Engineer at Heart ❤️</h3>
 
-- 🔭 I’m currently working on [Geospatial MIPA](https://github.com/lab-rpld-ugm/geospatial-mipa.git)
+- 🔭 I’m currently working on my personal portofolio website
 
 - 🌱 I’m currently learning **Unity VR and AR**
 
