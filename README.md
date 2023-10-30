@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on my personal portofolio website
 
-- 🌱 I’m currently learning **Unity VR and AR**
+- 🌱 I’m currently learning **Unity XR and Go Programming Language**
 
 - 📫 How to reach me **teddyantonius7@gmail.com**
 
