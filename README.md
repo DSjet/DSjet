@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm DSjet</h1>
-<h3 align="center">A Game Developer on Paper, Software Engineer at Heart ❤️</h3>
+<h3 align="center">Cloud and AI Developer</h3>
 
 - 🔭 I’m currently working on my personal portofolio website
 
